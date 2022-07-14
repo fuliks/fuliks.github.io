@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://fuliks.github.io</id>
+    <title>海有水涡</title>
+    <updated>2022-07-14T15:15:21.724Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://fuliks.github.io"/>
+    <link rel="self" href="http://fuliks.github.io/atom.xml"/>
+    <subtitle>云心怀鹤的GitHub</subtitle>
+    <logo>http://fuliks.github.io/images/avatar.png</logo>
+    <icon>http://fuliks.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 海有水涡</rights>
+</feed>
